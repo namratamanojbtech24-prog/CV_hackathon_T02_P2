@@ -1,0 +1,16 @@
+numpy>=1.23
+scipy>=1.9
+Pillow>=9
+pandas>=1.5
+scikit-learn>=1.2
+scikit-image>=0.21
+opencv-python-headless>=4.8
+torch>=2.1
+streamlit>=1.36
+plotly>=5.18
+matplotlib>=3.6
+psutil>=5.9
+pytest>=7
+# optional
+# rawpy>=0.19      # load real DNG/RAW files
+# lpips>=0.1.4     # learned perceptual metric (needs AlexNet weights download)
